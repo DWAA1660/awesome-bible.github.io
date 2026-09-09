@@ -10,7 +10,7 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [bible.com](https://www.bible.com)
 ### Software
 * [logos.com](https://logos.com)
-
+* [firstverse.org - Search the Bible in plain words, English and Spanish](https://firstverse.org/)
 
 ## Websites
 * [yesheis - Sharing faith with others](https://yesheis.com/)
@@ -72,9 +72,6 @@ Feel free to add content via the github-project (<a href="https://github.com/awe
 * [Churchdesk](https://www.churchdesk.com)
 * [ChurchTools](https://www.church.tools/en/home)
 * [Optigem](https://optigem.com/)
-
-### Live streaming
-* [Omnia app](https://omnia-app.org)
 
 ## Technologies miscelaneous
 * [Technology Entrepreneurship for the Gospel](https://www.theotech.org)
